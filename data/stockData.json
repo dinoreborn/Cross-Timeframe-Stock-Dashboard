@@ -1,0 +1,2257 @@
+{
+  "monthly": [
+      {
+      "period": "Jul-24",
+      "stock": "PCJEWELLER",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 83.88
+    },
+    {
+      "period": "Jul-24",
+      "stock": "BALUFORGE",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 56.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "OPTIEMUS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 45.87
+    },
+    {
+      "period": "Jul-24",
+      "stock": "RVNL",
+      "sector": "Engineering - Construction",
+      "index": "Midcap 150 Index",
+      "returns": 44.94
+    },
+    {
+      "period": "Jul-24",
+      "stock": "TIPSMUSIC",
+      "sector": "Media",
+      "index": "Nifty Microcap 250",
+      "returns": 44.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "IFCI",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 43.33
+    },
+    {
+      "period": "Jul-24",
+      "stock": "LUXIND",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 43.32
+    },
+    {
+      "period": "Jul-24",
+      "stock": "REFEX",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 42.97
+    },
+    {
+      "period": "Jul-24",
+      "stock": "MMTC",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 42.02
+    },
+    {
+      "period": "Jul-24",
+      "stock": "DEEPAKFERT",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 35.47
+    },
+    {
+      "period": "Jul-24",
+      "stock": "AWFIS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 34.07
+    },
+    {
+      "period": "Jul-24",
+      "stock": "IREDA",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Midcap 150 Index",
+      "returns": 33.92
+    },
+    {
+      "period": "Jul-24",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 32.14
+    },
+    {
+      "period": "Jul-24",
+      "stock": "SUZLON",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 31.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "INDIAGLYCO",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 29.91
+    },
+    {
+      "period": "Jul-24",
+      "stock": "MARKSANS",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 28.83
+    },
+    {
+      "period": "Jul-24",
+      "stock": "INDIACEM",
+      "sector": "Cement",
+      "index": "SmallCap 250",
+      "returns": 28.71
+    },
+    {
+      "period": "Jul-24",
+      "stock": "ZYDUSWELL",
+      "sector": "Food",
+      "index": "Nifty Microcap 250",
+      "returns": 28.50
+    },
+    {
+      "period": "Jul-24",
+      "stock": "GREAVESCOT",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 28.29
+    },
+    {
+      "period": "Jul-24",
+      "stock": "TORNTPOWER",
+      "sector": "Power",
+      "index": "Midcap 150 Index",
+      "returns": 28.15
+    },
+    {
+      "period": "Aug-24",
+      "stock": "AIIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 83.88
+    },
+    {
+      "period": "Aug-24",
+      "stock": "EDELWEISS",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Nifty Microcap 250",
+      "returns": 56.08
+    },
+    {
+      "period": "Aug-24",
+      "stock": "WEBELSOLAR",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 45.87
+    },
+    {
+      "period": "Aug-24",
+      "stock": "GODFRYPHLP",
+      "sector": "Tobacco - Alcohol",
+      "index": "SmallCap 250",
+      "returns": 44.94
+    },
+    {
+      "period": "Aug-24",
+      "stock": "BALUFORGE",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 44.08
+    },
+    {
+      "period": "Aug-24",
+      "stock": "GMRP&UI",
+      "sector": "Power",
+      "index": "Nifty Microcap 250",
+      "returns": 43.33
+    },
+    {
+      "period": "Aug-24",
+      "stock": "PCBL",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 43.32
+    },
+    {
+      "period": "Aug-24",
+      "stock": "SUPRIYA",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 42.97
+    },
+    {
+      "period": "Aug-24",
+      "stock": "GRAVITA",
+      "sector": "Metals - Non Ferrous",
+      "index": "SmallCap 250",
+      "returns": 42.02
+    },
+    {
+      "period": "Aug-24",
+      "stock": "NEULANDLAB",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 35.47
+    },
+    {
+      "period": "Aug-24",
+      "stock": "GRWRHITECH",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 34.07
+    },
+    {
+      "period": "Aug-24",
+      "stock": "GSPL",
+      "sector": "Oil - Gas",
+      "index": "SmallCap 250",
+      "returns": 33.92
+    },
+    {
+      "period": "Aug-24",
+      "stock": "SARDAEN",
+      "sector": "Metals - Steel - Iron Products",
+      "index": "SmallCap 250",
+      "returns": 32.14
+    },
+    {
+      "period": "Aug-24",
+      "stock": "OLAELEC",
+      "sector": "Auto",
+      "index": "Midcap 150 Index",
+      "returns": 31.08
+    },
+    {
+      "period": "Aug-24",
+      "stock": "OPTIEMUS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 29.91
+    },
+    {
+      "period": "Aug-24",
+      "stock": "SYMPHONY",
+      "sector": "Consumer Durables",
+      "index": "Nifty Microcap 250",
+      "returns": 28.83
+    },
+    {
+      "period": "Aug-24",
+      "stock": "IIFLCAPS",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 28.71
+    },
+    {
+      "period": "Aug-24",
+      "stock": "POLYMED",
+      "sector": "Hospital - Healthcare Services",
+      "index": "SmallCap 250",
+      "returns": 28.50
+    },
+    {
+      "period": "Aug-24",
+      "stock": "SHAILY",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 28.29
+    },
+    {
+      "period": "Aug-24",
+      "stock": "PAYTM",
+      "sector": "Finance - Investment - Management",
+      "index": "Midcap 150 Index",
+      "returns": 28.15
+    },
+    {
+      "period": "Sep-24",
+      "stock": "REFEX",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 81.49
+    },
+    {
+      "period": "Sep-24",
+      "stock": "PCJEWELLER",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 60.70
+    },
+    {
+      "period": "Sep-24",
+      "stock": "RELINFRA",
+      "sector": "Power",
+      "index": "Nifty Microcap 250",
+      "returns": 60.67
+    },
+    {
+      "period": "Sep-24",
+      "stock": "RPOWER",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 59.23
+    },
+    {
+      "period": "Sep-24",
+      "stock": "SEQUENT",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 41.92
+    },
+    {
+      "period": "Sep-24",
+      "stock": "JMFINANCIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 41.32
+    },
+    {
+      "period": "Sep-24",
+      "stock": "OPTIEMUS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 39.09
+    },
+    {
+      "period": "Sep-24",
+      "stock": "NEOGEN",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 38.88
+    },
+    {
+      "period": "Sep-24",
+      "stock": "FLUOROCHEM",
+      "sector": "Chemicals",
+      "index": "Midcap 150 Index",
+      "returns": 34.57
+    },
+    {
+      "period": "Sep-24",
+      "stock": "SENCO",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 31.40
+    },
+    {
+      "period": "Sep-24",
+      "stock": "BSE",
+      "sector": "Finance - Investment - Management",
+      "index": "Midcap 150 Index",
+      "returns": 30.08
+    },
+    {
+      "period": "Sep-24",
+      "stock": "EDELWEISS",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Nifty Microcap 250",
+      "returns": 29.89
+    },
+    {
+      "period": "Sep-24",
+      "stock": "PREMIERENE",
+      "sector": "IT - Hardware",
+      "index": "Midcap 150 Index",
+      "returns": 28.93
+    },
+    {
+      "period": "Sep-24",
+      "stock": "CHOLAHLDNG",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 27.57
+    },
+    {
+      "period": "Sep-24",
+      "stock": "HSCL",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 26.45
+    },
+    {
+      "period": "Sep-24",
+      "stock": "ACUTAAS",
+      "sector": "None",
+      "index": "None",
+      "returns": 26.14
+    },
+    {
+      "period": "Sep-24",
+      "stock": "SARDAEN",
+      "sector": "Metals - Steel - Iron Products",
+      "index": "SmallCap 250",
+      "returns": 25.98
+    },
+    {
+      "period": "Sep-24",
+      "stock": "JSWHL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 25.85
+    },
+    {
+      "period": "Sep-24",
+      "stock": "IIFLCAPS",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 25.21
+    },
+    {
+      "period": "Sep-24",
+      "stock": "JUBLPHARMA",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 25.15
+    },
+    {
+      "period": "Oct-24",
+      "stock": "ANUP",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 49.47
+    },
+    {
+      "period": "Oct-24",
+      "stock": "TARIL",
+      "sector": "Electric Equipments",
+      "index": "SmallCap 250",
+      "returns": 42.19
+    },
+    {
+      "period": "Oct-24",
+      "stock": "WEBELSOLAR",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 31.83
+    },
+    {
+      "period": "Oct-24",
+      "stock": "GANESHHOUC",
+      "sector": "Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 31.66
+    },
+    {
+      "period": "Oct-24",
+      "stock": "SHARDACROP",
+      "sector": "Fertilizers - Pesticides",
+      "index": "Nifty Microcap 250",
+      "returns": 31.20
+    },
+    {
+      "period": "Oct-24",
+      "stock": "MOTILALOFS",
+      "sector": "Finance - Stock Broking",
+      "index": "Midcap 150 Index",
+      "returns": 26.18
+    },
+    {
+      "period": "Oct-24",
+      "stock": "TIPSMUSIC",
+      "sector": "Media",
+      "index": "Nifty Microcap 250",
+      "returns": 25.92
+    },
+    {
+      "period": "Oct-24",
+      "stock": "KIRLPNU",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 25.47
+    },
+    {
+      "period": "Oct-24",
+      "stock": "WOCKPHARMA",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 24.73
+    },
+    {
+      "period": "Oct-24",
+      "stock": "AMBER",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 24.65
+    },
+    {
+      "period": "Oct-24",
+      "stock": "POLYMED",
+      "sector": "Hospital - Healthcare Services",
+      "index": "SmallCap 250",
+      "returns": 22.10
+    },
+    {
+      "period": "Oct-24",
+      "stock": "REDTAPE",
+      "sector": "Retail",
+      "index": "Nifty Microcap 250",
+      "returns": 21.75
+    },
+    {
+      "period": "Oct-24",
+      "stock": "PRUDENT",
+      "sector": "Finance - Investment - Management",
+      "index": "Nifty Microcap 250",
+      "returns": 21.02
+    },
+    {
+      "period": "Oct-24",
+      "stock": "SYRMA",
+      "sector": "IT - Hardware",
+      "index": "SmallCap 250",
+      "returns": 20.88
+    },
+    {
+      "period": "Oct-24",
+      "stock": "CRISIL",
+      "sector": "Finance - Investment - Management",
+      "index": "Midcap 150 Index",
+      "returns": 17.88
+    },
+    {
+      "period": "Oct-24",
+      "stock": "ANGELONE",
+      "sector": "Finance - Stock Broking",
+      "index": "SmallCap 250",
+      "returns": 17.36
+    },
+    {
+      "period": "Oct-24",
+      "stock": "PPLPHARMA",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 17.33
+    },
+    {
+      "period": "Oct-24",
+      "stock": "GILLETTE",
+      "sector": "FMCG",
+      "index": "SmallCap 250",
+      "returns": 17.00
+    },
+    {
+      "period": "Oct-24",
+      "stock": "YATHARTH",
+      "sector": "Hospital - Healthcare Services",
+      "index": "Nifty Microcap 250",
+      "returns": 16.87
+    },
+    {
+      "period": "Oct-24",
+      "stock": "NEULANDLAB",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 16.78
+    },
+    {
+      "period": "Nov-24",
+      "stock": "AVALON",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 63.92
+    },
+    {
+      "period": "Nov-24",
+      "stock": "BANCOINDIA",
+      "sector": "Auto Ancillary",
+      "index": "Nifty Microcap 250",
+      "returns": 57.16
+    },
+    {
+      "period": "Nov-24",
+      "stock": "JSWHL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 44.10
+    },
+    {
+      "period": "Nov-24",
+      "stock": "TI",
+      "sector": "Tobacco - Alcohol",
+      "index": "Nifty Microcap 250",
+      "returns": 38.95
+    },
+    {
+      "period": "Nov-24",
+      "stock": "DHANI",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 30.51
+    },
+    {
+      "period": "Nov-24",
+      "stock": "INNOVACAP",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 29.71
+    },
+    {
+      "period": "Nov-24",
+      "stock": "DCAL",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 26.62
+    },
+    {
+      "period": "Nov-24",
+      "stock": "SAGILITY",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 26.26
+    },
+    {
+      "period": "Nov-24",
+      "stock": "SHAILY",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 26.08
+    },
+    {
+      "period": "Nov-24",
+      "stock": "ITI",
+      "sector": "Telecommunication",
+      "index": "SmallCap 250",
+      "returns": 25.78
+    },
+    {
+      "period": "Nov-24",
+      "stock": "PGIL",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 25.01
+    },
+    {
+      "period": "Nov-24",
+      "stock": "CARTRADE",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 24.62
+    },
+    {
+      "period": "Nov-24",
+      "stock": "EMBDL",
+      "sector": "Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 23.25
+    },
+    {
+      "period": "Nov-24",
+      "stock": "SWANENERGY",
+      "sector": "Textile",
+      "index": "SmallCap 250",
+      "returns": 22.02
+    },
+    {
+      "period": "Nov-24",
+      "stock": "GRWRHITECH",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 21.90
+    },
+    {
+      "period": "Nov-24",
+      "stock": "IMFA",
+      "sector": "Metals",
+      "index": "Nifty Microcap 250",
+      "returns": 21.73
+    },
+    {
+      "period": "Nov-24",
+      "stock": "SUPRIYA",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 21.62
+    },
+    {
+      "period": "Nov-24",
+      "stock": "TIRUMALCHM",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 20.97
+    },
+    {
+      "period": "Nov-24",
+      "stock": "MANINFRA",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 19.88
+    },
+    {
+      "period": "Nov-24",
+      "stock": "VIJAYA",
+      "sector": "Hospital - Healthcare Services",
+      "index": "SmallCap 250",
+      "returns": 19.55
+    },
+    {
+      "period": "Dec-24",
+      "stock": "BLACKBUCK",
+      "sector": "Logistics",
+      "index": "Nifty Microcap 250",
+      "returns": 77.76
+    },
+    {
+      "period": "Dec-24",
+      "stock": "EIEL",
+      "sector": "None",
+      "index": "None",
+      "returns": 50.61
+    },
+    {
+      "period": "Dec-24",
+      "stock": "GREAVESCOT",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 48.40
+    },
+    {
+      "period": "Dec-24",
+      "stock": "NEWGEN",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 44.16
+    },
+    {
+      "period": "Dec-24",
+      "stock": "SHAKTIPUMP",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 36.82
+    },
+    {
+      "period": "Dec-24",
+      "stock": "SAGILITY",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 36.28
+    },
+    {
+      "period": "Dec-24",
+      "stock": "PGEL",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 35.63
+    },
+    {
+      "period": "Dec-24",
+      "stock": "ITI",
+      "sector": "Telecommunication",
+      "index": "SmallCap 250",
+      "returns": 35.07
+    },
+    {
+      "period": "Dec-24",
+      "stock": "INTELLECT",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 33.33
+    },
+    {
+      "period": "Dec-24",
+      "stock": "KFINTECH",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 32.09
+    },
+    {
+      "period": "Dec-24",
+      "stock": "WEBELSOLAR",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 30.59
+    },
+    {
+      "period": "Dec-24",
+      "stock": "KSL",
+      "sector": "Metals - Steel - Iron Products",
+      "index": "Nifty Microcap 250",
+      "returns": 29.23
+    },
+    {
+      "period": "Dec-24",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 28.89
+    },
+    {
+      "period": "Dec-24",
+      "stock": "ABDL",
+      "sector": "Tobacco - Alcohol",
+      "index": "Nifty Microcap 250",
+      "returns": 27.56
+    },
+    {
+      "period": "Dec-24",
+      "stock": "IGL",
+      "sector": "Oil - Gas",
+      "index": "Midcap 150 Index",
+      "returns": 27.09
+    },
+    {
+      "period": "Dec-24",
+      "stock": "ANANTRAJ",
+      "sector": "Construction",
+      "index": "SmallCap 250",
+      "returns": 27.01
+    },
+    {
+      "period": "Dec-24",
+      "stock": "STARCEMENT",
+      "sector": "Cement",
+      "index": "Nifty Microcap 250",
+      "returns": 26.97
+    },
+    {
+      "period": "Dec-24",
+      "stock": "BORORENEW",
+      "sector": "Manufacturing",
+      "index": "Nifty Microcap 250",
+      "returns": 26.80
+    },
+    {
+      "period": "Dec-24",
+      "stock": "JINDWORLD",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 24.80
+    },
+    {
+      "period": "Dec-24",
+      "stock": "ASHOKA",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 24.73
+    },
+    {
+      "period": "25-Jan",
+      "stock": "BLUEJET",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 29.96
+    },
+    {
+      "period": "25-Jan",
+      "stock": "SRF",
+      "sector": "Chemicals",
+      "index": "Midcap 150 Index",
+      "returns": 27.07
+    },
+    {
+      "period": "25-Jan",
+      "stock": "NAVINFLUOR",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 26.48
+    },
+    {
+      "period": "25-Jan",
+      "stock": "CREDITACC",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 21.55
+    },
+    {
+      "period": "25-Jan",
+      "stock": "UPL",
+      "sector": "Fertilizers - Pesticides",
+      "index": "Midcap 150 Index",
+      "returns": 20.63
+    },
+    {
+      "period": "25-Jan",
+      "stock": "ALIVUS",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 17.87
+    },
+    {
+      "period": "25-Jan",
+      "stock": "EMBDL",
+      "sector": "Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 17.79
+    },
+    {
+      "period": "25-Jan",
+      "stock": "ZENSARTECH",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 16.41
+    },
+    {
+      "period": "25-Jan",
+      "stock": "LTTS",
+      "sector": "IT - Software",
+      "index": "Midcap 150 Index",
+      "returns": 15.99
+    },
+    {
+      "period": "25-Jan",
+      "stock": "BDL",
+      "sector": "Defence",
+      "index": "Midcap 150 Index",
+      "returns": 15.11
+    },
+    {
+      "period": "25-Jan",
+      "stock": "SBICARD",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Midcap 150 Index",
+      "returns": 14.81
+    },
+    {
+      "period": "25-Jan",
+      "stock": "ACUTAAS",
+      "sector": "None",
+      "index": "None",
+      "returns": 14.39
+    },
+    {
+      "period": "25-Jan",
+      "stock": "LLOYDSENT",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 13.51
+    },
+    {
+      "period": "25-Jan",
+      "stock": "IDEA",
+      "sector": "Telecommunication",
+      "index": "Midcap 150 Index",
+      "returns": 12.98
+    },
+    {
+      "period": "25-Jan",
+      "stock": "SUNDARMFIN",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Midcap 150 Index",
+      "returns": 12.95
+    },
+    {
+      "period": "25-Jan",
+      "stock": "PARAS",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 12.93
+    },
+    {
+      "period": "25-Jan",
+      "stock": "JSFB",
+      "sector": "Banks",
+      "index": "Nifty Microcap 250",
+      "returns": 11.74
+    },
+    {
+      "period": "25-Jan",
+      "stock": "MAZDOCK",
+      "sector": "Ship - Ship Building",
+      "index": "Midcap 150 Index",
+      "returns": 11.35
+    },
+    {
+      "period": "25-Jan",
+      "stock": "RVNL",
+      "sector": "Engineering - Construction",
+      "index": "Midcap 150 Index",
+      "returns": 11.26
+    },
+    {
+      "period": "25-Jan",
+      "stock": "BANKINDIA",
+      "sector": "Banks",
+      "index": "Midcap 150 Index",
+      "returns": 10.02
+    },
+    {
+      "period": "25-Feb",
+      "stock": "GLAXO",
+      "sector": "Pharma",
+      "index": "Midcap 150 Index",
+      "returns": 29.96
+    },
+    {
+      "period": "25-Feb",
+      "stock": "AARTIPHARM",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 27.07
+    },
+    {
+      "period": "25-Feb",
+      "stock": "CASTROLIND",
+      "sector": "Oil - Gas",
+      "index": "SmallCap 250",
+      "returns": 26.48
+    },
+    {
+      "period": "25-Feb",
+      "stock": "GODREJIND",
+      "sector": "Chemicals",
+      "index": "Midcap 150 Index",
+      "returns": 21.55
+    },
+    {
+      "period": "25-Feb",
+      "stock": "EMUDHRA",
+      "sector": "IT - Software",
+      "index": "Nifty Microcap 250",
+      "returns": 20.63
+    },
+    {
+      "period": "25-Feb",
+      "stock": "ABBOTINDIA",
+      "sector": "Pharma",
+      "index": "Midcap 150 Index",
+      "returns": 17.87
+    },
+    {
+      "period": "25-Feb",
+      "stock": "INDIASHLTR",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Nifty Microcap 250",
+      "returns": 17.79
+    },
+    {
+      "period": "25-Feb",
+      "stock": "AEGISLOG",
+      "sector": "Logistics",
+      "index": "SmallCap 250",
+      "returns": 16.41
+    },
+    {
+      "period": "25-Feb",
+      "stock": "REDINGTON",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 15.99
+    },
+    {
+      "period": "25-Feb",
+      "stock": "COHANCE",
+      "sector": "None",
+      "index": "None",
+      "returns": 15.11
+    },
+    {
+      "period": "25-Feb",
+      "stock": "ANANDRATHI",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 14.81
+    },
+    {
+      "period": "25-Feb",
+      "stock": "GULFOILLUB",
+      "sector": "Oil - Gas",
+      "index": "Nifty Microcap 250",
+      "returns": 14.39
+    },
+    {
+      "period": "25-Feb",
+      "stock": "CHAMBLFERT",
+      "sector": "Fertilizers - Pesticides",
+      "index": "SmallCap 250",
+      "returns": 13.51
+    },
+    {
+      "period": "25-Feb",
+      "stock": "GRWRHITECH",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 12.98
+    },
+    {
+      "period": "25-Feb",
+      "stock": "CHOLAHLDNG",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 12.95
+    },
+    {
+      "period": "25-Feb",
+      "stock": "MEDANTA",
+      "sector": "Hospital - Healthcare Services",
+      "index": "Midcap 150 Index",
+      "returns": 12.93
+    },
+    {
+      "period": "25-Feb",
+      "stock": "NH",
+      "sector": "Hospital - Healthcare Services",
+      "index": "SmallCap 250",
+      "returns": 11.74
+    },
+    {
+      "period": "25-Feb",
+      "stock": "HOMEFIRST",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 11.35
+    },
+    {
+      "period": "25-Feb",
+      "stock": "SAILIFE",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 11.26
+    },
+    {
+      "period": "25-Feb",
+      "stock": "UPL",
+      "sector": "Fertilizers - Pesticides",
+      "index": "Midcap 150 Index",
+      "returns": 10.02
+    },
+    {
+      "period": "25-Mar",
+      "stock": "POWERMECH",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 50.79
+    },
+    {
+      "period": "25-Mar",
+      "stock": "PTCIL",
+      "sector": "Forgings",
+      "index": "SmallCap 250",
+      "returns": 46.45
+    },
+    {
+      "period": "25-Mar",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 41.45
+    },
+    {
+      "period": "25-Mar",
+      "stock": "PRUDENT",
+      "sector": "Finance - Investment - Management",
+      "index": "Nifty Microcap 250",
+      "returns": 41.21
+    },
+    {
+      "period": "25-Mar",
+      "stock": "JSWHL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 40.47
+    },
+    {
+      "period": "25-Mar",
+      "stock": "TARIL",
+      "sector": "Electric Equipments",
+      "index": "SmallCap 250",
+      "returns": 39.07
+    },
+    {
+      "period": "25-Mar",
+      "stock": "CHENNPETRO",
+      "sector": "Oil - Gas",
+      "index": "SmallCap 250",
+      "returns": 36.20
+    },
+    {
+      "period": "25-Mar",
+      "stock": "FORCEMOT",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 35.60
+    },
+    {
+      "period": "25-Mar",
+      "stock": "HEG",
+      "sector": "Manufacturing",
+      "index": "SmallCap 250",
+      "returns": 34.72
+    },
+    {
+      "period": "25-Mar",
+      "stock": "GRSE",
+      "sector": "Ship - Ship Building",
+      "index": "SmallCap 250",
+      "returns": 34.21
+    },
+    {
+      "period": "25-Mar",
+      "stock": "BALUFORGE",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 34.05
+    },
+    {
+      "period": "25-Mar",
+      "stock": "TDPOWERSYS",
+      "sector": "Electric Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 32.91
+    },
+    {
+      "period": "25-Mar",
+      "stock": "JYOTICNC",
+      "sector": "Engg - Industrial Equipments",
+      "index": "SmallCap 250",
+      "returns": 32.54
+    },
+    {
+      "period": "25-Mar",
+      "stock": "AVANTIFEED",
+      "sector": "Food",
+      "index": "Nifty Microcap 250",
+      "returns": 31.91
+    },
+    {
+      "period": "25-Mar",
+      "stock": "SPARC",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 31.60
+    },
+    {
+      "period": "25-Mar",
+      "stock": "BDL",
+      "sector": "Defence",
+      "index": "Midcap 150 Index",
+      "returns": 31.37
+    },
+    {
+      "period": "25-Mar",
+      "stock": "BEML",
+      "sector": "Construction",
+      "index": "SmallCap 250",
+      "returns": 31.16
+    },
+    {
+      "period": "25-Mar",
+      "stock": "GODFRYPHLP",
+      "sector": "Tobacco - Alcohol",
+      "index": "SmallCap 250",
+      "returns": 30.44
+    },
+    {
+      "period": "25-Mar",
+      "stock": "NAVA",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 30.37
+    },
+    {
+      "period": "25-Mar",
+      "stock": "RHIM",
+      "sector": "Metals",
+      "index": "SmallCap 250",
+      "returns": 29.51
+    },
+    {
+      "period": "25-Apr",
+      "stock": "DATAPATTNS",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 46.59
+    },
+    {
+      "period": "25-Apr",
+      "stock": "PARAS",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 39.13
+    },
+    {
+      "period": "25-Apr",
+      "stock": "PARADEEP",
+      "sector": "Fertilizers - Pesticides",
+      "index": "Nifty Microcap 250",
+      "returns": 30.31
+    },
+    {
+      "period": "25-Apr",
+      "stock": "AUBANK",
+      "sector": "Banks",
+      "index": "Midcap 150 Index",
+      "returns": 28.06
+    },
+    {
+      "period": "25-Apr",
+      "stock": "DIXON",
+      "sector": "Consumer Durables",
+      "index": "Midcap 150 Index",
+      "returns": 27.30
+    },
+    {
+      "period": "25-Apr",
+      "stock": "RBA",
+      "sector": "Hotels",
+      "index": "Nifty Microcap 250",
+      "returns": 26.04
+    },
+    {
+      "period": "25-Apr",
+      "stock": "HOMEFIRST",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 24.43
+    },
+    {
+      "period": "25-Apr",
+      "stock": "BDL",
+      "sector": "Defence",
+      "index": "Midcap 150 Index",
+      "returns": 22.84
+    },
+    {
+      "period": "25-Apr",
+      "stock": "ELECON",
+      "sector": "Engg - Industrial Equipments",
+      "index": "SmallCap 250",
+      "returns": 22.18
+    },
+    {
+      "period": "25-Apr",
+      "stock": "UJJIVANSFB",
+      "sector": "Banks",
+      "index": "Nifty Microcap 250",
+      "returns": 22.11
+    },
+    {
+      "period": "25-Apr",
+      "stock": "ASAHIINDIA",
+      "sector": "Manufacturing",
+      "index": "SmallCap 250",
+      "returns": 21.49
+    },
+    {
+      "period": "25-Apr",
+      "stock": "SENCO",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 21.45
+    },
+    {
+      "period": "25-Apr",
+      "stock": "SONATSOFTW",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 20.93
+    },
+    {
+      "period": "25-Apr",
+      "stock": "PRESTIGE",
+      "sector": "Construction",
+      "index": "Midcap 150 Index",
+      "returns": 20.90
+    },
+    {
+      "period": "25-Apr",
+      "stock": "JSFB",
+      "sector": "Banks",
+      "index": "Nifty Microcap 250",
+      "returns": 20.82
+    },
+    {
+      "period": "25-Apr",
+      "stock": "ASTRAMICRO",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 20.63
+    },
+    {
+      "period": "25-Apr",
+      "stock": "SAMHI",
+      "sector": "Hotels",
+      "index": "Nifty Microcap 250",
+      "returns": 20.60
+    },
+    {
+      "period": "25-Apr",
+      "stock": "INDIAGLYCO",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 20.25
+    },
+    {
+      "period": "25-Apr",
+      "stock": "WHIRLPOOL",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 20.22
+    },
+    {
+      "period": "25-Apr",
+      "stock": "TARC",
+      "sector": "Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 20.18
+    },
+    {
+      "period": "25-May",
+      "stock": "IFCI",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 59.50
+    },
+    {
+      "period": "25-May",
+      "stock": "GRSE",
+      "sector": "Ship - Ship Building",
+      "index": "SmallCap 250",
+      "returns": 56.66
+    },
+    {
+      "period": "25-May",
+      "stock": "BANCOINDIA",
+      "sector": "Auto Ancillary",
+      "index": "Nifty Microcap 250",
+      "returns": 55.46
+    },
+    {
+      "period": "25-May",
+      "stock": "MMTC",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 52.64
+    },
+    {
+      "period": "25-May",
+      "stock": "PGIL",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 51.81
+    },
+    {
+      "period": "25-May",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 51.07
+    },
+    {
+      "period": "25-May",
+      "stock": "CCL",
+      "sector": "Tea - Coffee",
+      "index": "SmallCap 250",
+      "returns": 49.48
+    },
+    {
+      "period": "25-May",
+      "stock": "INTELLECT",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 48.51
+    },
+    {
+      "period": "25-May",
+      "stock": "GRWRHITECH",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 47.36
+    },
+    {
+      "period": "25-May",
+      "stock": "ITDCEM",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 46.62
+    },
+    {
+      "period": "25-May",
+      "stock": "RPOWER",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 45.29
+    },
+    {
+      "period": "25-May",
+      "stock": "APARINDS",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 44.82
+    },
+    {
+      "period": "25-May",
+      "stock": "UNIMECH",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 43.77
+    },
+    {
+      "period": "25-May",
+      "stock": "GVT&D",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 43.12
+    },
+    {
+      "period": "25-May",
+      "stock": "FORCEMOT",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 41.91
+    },
+    {
+      "period": "25-May",
+      "stock": "NETWEB",
+      "sector": "IT - Hardware",
+      "index": "SmallCap 250",
+      "returns": 41.64
+    },
+    {
+      "period": "25-May",
+      "stock": "ECLERX",
+      "sector": "IT - BPO - ITeS",
+      "index": "SmallCap 250",
+      "returns": 40.83
+    },
+    {
+      "period": "25-May",
+      "stock": "SHILPAMED",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 39.31
+    },
+    {
+      "period": "25-May",
+      "stock": "IIFLCAPS",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 38.51
+    },
+    {
+      "period": "25-May",
+      "stock": "AIIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 38.16
+    },
+    {
+      "period": "25-Jun",
+      "stock": "IFCI",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 46.29
+    },
+    {
+      "period": "25-Jun",
+      "stock": "GRSE",
+      "sector": "Ship - Ship Building",
+      "index": "SmallCap 250",
+      "returns": 43.21
+    },
+    {
+      "period": "25-Jun",
+      "stock": "BANCOINDIA",
+      "sector": "Auto Ancillary",
+      "index": "Nifty Microcap 250",
+      "returns": 39.19
+    },
+    {
+      "period": "25-Jun",
+      "stock": "MMTC",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 36.62
+    },
+    {
+      "period": "25-Jun",
+      "stock": "PGIL",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 35.47
+    },
+    {
+      "period": "25-Jun",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 31.50
+    },
+    {
+      "period": "25-Jun",
+      "stock": "CCL",
+      "sector": "Tea - Coffee",
+      "index": "SmallCap 250",
+      "returns": 30.73
+    },
+    {
+      "period": "25-Jun",
+      "stock": "INTELLECT",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 30.08
+    },
+    {
+      "period": "25-Jun",
+      "stock": "GRWRHITECH",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 28.35
+    },
+    {
+      "period": "25-Jun",
+      "stock": "ITDCEM",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 28.22
+    },
+    {
+      "period": "25-Jun",
+      "stock": "RPOWER",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 27.10
+    },
+    {
+      "period": "25-Jun",
+      "stock": "APARINDS",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 26.95
+    },
+    {
+      "period": "25-Jun",
+      "stock": "UNIMECH",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 26.01
+    },
+    {
+      "period": "25-Jun",
+      "stock": "GVT&D",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 25.78
+    },
+    {
+      "period": "25-Jun",
+      "stock": "FORCEMOT",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 25.77
+    },
+    {
+      "period": "25-Jun",
+      "stock": "NETWEB",
+      "sector": "IT - Hardware",
+      "index": "SmallCap 250",
+      "returns": 24.94
+    },
+    {
+      "period": "25-Jun",
+      "stock": "ECLERX",
+      "sector": "IT - BPO - ITeS",
+      "index": "SmallCap 250",
+      "returns": 24.74
+    },
+    {
+      "period": "25-Jun",
+      "stock": "SHILPAMED",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 24.46
+    },
+    {
+      "period": "25-Jun",
+      "stock": "IIFLCAPS",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 24.31
+    },
+    {
+      "period": "25-Jun",
+      "stock": "AIIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 23.95
+    }
+  ],
+  "quarterly": [
+     {
+      "period": "Q3 2024",
+      "stock": "PCJEWELLER",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 249.01
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "REFEX",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 201.96
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "OPTIEMUS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 152.63
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "BALUFORGE",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 137.73
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "PCBL",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 124.40
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "EDELWEISS",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Nifty Microcap 250",
+      "returns": 115.33
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "WEBELSOLAR",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 92.39
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "SARDAEN",
+      "sector": "Metals - Steel - Iron Products",
+      "index": "SmallCap 250",
+      "returns": 91.09
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "SEQUENT",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 89.74
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "GMRP&UI",
+      "sector": "Power",
+      "index": "Nifty Microcap 250",
+      "returns": 84.65
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "MARKSANS",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 81.90
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "RELINFRA",
+      "sector": "Power",
+      "index": "Nifty Microcap 250",
+      "returns": 77.91
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "JMFINANCIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 69.08
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "RPOWER",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 67.85
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "PAYTM",
+      "sector": "Finance - Investment - Management",
+      "index": "Midcap 150 Index",
+      "returns": 67.12
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "HSCL",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 66.73
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "GRAVITA",
+      "sector": "Metals - Non Ferrous",
+      "index": "SmallCap 250",
+      "returns": 66.11
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "INOXWIND",
+      "sector": "Electric Equipments",
+      "index": "SmallCap 250",
+      "returns": 65.64
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "PGEL",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 64.57
+    },
+    {
+      "period": "Q3 2024",
+      "stock": "GODFRYPHLP",
+      "sector": "Tobacco - Alcohol",
+      "index": "SmallCap 250",
+      "returns": 63.84
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "BLACKBUCK",
+      "sector": "Logistics",
+      "index": "Nifty Microcap 250",
+      "returns": 85.31
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "DHANI",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 76.94
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "TARIL",
+      "sector": "Electric Equipments",
+      "index": "SmallCap 250",
+      "returns": 74.98
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "SAGILITY",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 72.07
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "JSWHL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 68.65
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "PGIL",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 66.27
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "AVALON",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 64.29
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "PGEL",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 55.15
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "GANESHHOUC",
+      "sector": "Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 54.40
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "GREAVESCOT",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 54.13
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "WEBELSOLAR",
+      "sector": "IT - Hardware",
+      "index": "Nifty Microcap 250",
+      "returns": 53.63
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "AMBER",
+      "sector": "Consumer Durables",
+      "index": "SmallCap 250",
+      "returns": 52.46
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "EIEL",
+      "sector": "None",
+      "index": "None",
+      "returns": 50.61
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "ANUP",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 50.21
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "CARTRADE",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 49.94
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "DCAL",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 48.22
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "WOCKPHARMA",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 46.25
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "ITI",
+      "sector": "Telecommunication",
+      "index": "SmallCap 250",
+      "returns": 45.96
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "INNOVACAP",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 43.92
+    },
+    {
+      "period": "Q4 2024",
+      "stock": "CRISIL",
+      "sector": "Finance - Investment - Management",
+      "index": "Midcap 150 Index",
+      "returns": 43.25
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "BLUEJET",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 53.23
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "KSCL",
+      "sector": "Agriculture",
+      "index": "Nifty Microcap 250",
+      "returns": 44.38
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "JSWHL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 42.65
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "FORCEMOT",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 36.45
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "AVANTIFEED",
+      "sector": "Food",
+      "index": "Nifty Microcap 250",
+      "returns": 36.23
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "GODFRYPHLP",
+      "sector": "Tobacco - Alcohol",
+      "index": "SmallCap 250",
+      "returns": 34.44
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "SRF",
+      "sector": "Chemicals",
+      "index": "Midcap 150 Index",
+      "returns": 32.92
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "SBICARD",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Midcap 150 Index",
+      "returns": 29.99
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "GLAXO",
+      "sector": "Pharma",
+      "index": "Midcap 150 Index",
+      "returns": 29.04
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "NH",
+      "sector": "Hospital - Healthcare Services",
+      "index": "SmallCap 250",
+      "returns": 28.92
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "NAVINFLUOR",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 28.37
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "UPL",
+      "sector": "Fertilizers - Pesticides",
+      "index": "Midcap 150 Index",
+      "returns": 27.12
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "SHAILY",
+      "sector": "Plastic",
+      "index": "Nifty Microcap 250",
+      "returns": 26.99
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "CHOLAHLDNG",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 25.16
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "AAVAS",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 24.21
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "CHAMBLFERT",
+      "sector": "Fertilizers - Pesticides",
+      "index": "SmallCap 250",
+      "returns": 24.19
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "REDINGTON",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 21.64
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "MANAPPURAM",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 21.50
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "ASTRAZEN",
+      "sector": "Pharma",
+      "index": "SmallCap 250",
+      "returns": 19.62
+    },
+    {
+      "period": "Q1 2025",
+      "stock": "INDIASHLTR",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Nifty Microcap 250",
+      "returns": 18.10
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "LLOYDSENT",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 93.08
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "BANCOINDIA",
+      "sector": "Auto Ancillary",
+      "index": "Nifty Microcap 250",
+      "returns": 86.17
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "FORCEMOT",
+      "sector": "Auto",
+      "index": "Nifty Microcap 250",
+      "returns": 81.36
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "INDIAGLYCO",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 79.03
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "GRSE",
+      "sector": "Ship - Ship Building",
+      "index": "SmallCap 250",
+      "returns": 78.28
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "STLTECH",
+      "sector": "Cable",
+      "index": "Nifty Microcap 250",
+      "returns": 73.38
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "MCX",
+      "sector": "Finance - Stock Broking",
+      "index": "SmallCap 250",
+      "returns": 71.08
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "DATAPATTNS",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 71.01
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "ITDCEM",
+      "sector": "Engineering - Construction",
+      "index": "Nifty Microcap 250",
+      "returns": 68.17
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "INTELLECT",
+      "sector": "IT - Software",
+      "index": "SmallCap 250",
+      "returns": 67.91
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "SUBROS",
+      "sector": "Auto Ancillary",
+      "index": "Nifty Microcap 250",
+      "returns": 67.46
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "RPOWER",
+      "sector": "Power",
+      "index": "SmallCap 250",
+      "returns": 67.40
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "JMFINANCIL",
+      "sector": "Finance - Investment - Management",
+      "index": "SmallCap 250",
+      "returns": 65.36
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "PARAS",
+      "sector": "Defence",
+      "index": "Nifty Microcap 250",
+      "returns": 63.48
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "POWERINDIA",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 62.92
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "IIFLCAPS",
+      "sector": "Finance - Stock Broking",
+      "index": "Nifty Microcap 250",
+      "returns": 61.56
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "RELINFRA",
+      "sector": "Power",
+      "index": "Nifty Microcap 250",
+      "returns": 61.12
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "GVT&D",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 59.44
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "APARINDS",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 59.06
+    },
+    {
+      "period": "Q2 2025",
+      "stock": "SOLARINDS",
+      "sector": "Chemicals",
+      "index": "Midcap 150 Index",
+      "returns": 58.09
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-01-23",
+    "version": "1.0",
+    "description": "Stock performance data across multiple timeframes",
+    "dataSources": [
+      "NSE Indices",
+      "BSE Market Data", 
+      "Financial Research Reports"
+    ],
+    "notes": "Returns are in percentage format. Data is for demonstration purposes."
+  }
+}
