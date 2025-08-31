@@ -1,4 +1,144 @@
  [
+      {
+      "period": "Jul-24",
+      "stock": "PCJEWELLER",
+      "sector": "Diamond - Jewellery",
+      "index": "Nifty Microcap 250",
+      "returns": 83.88
+    },
+    {
+      "period": "Jul-24",
+      "stock": "BALUFORGE",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 56.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "OPTIEMUS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 45.87
+    },
+    {
+      "period": "Jul-24",
+      "stock": "RVNL",
+      "sector": "Engineering - Construction",
+      "index": "Midcap 150 Index",
+      "returns": 44.94
+    },
+    {
+      "period": "Jul-24",
+      "stock": "TIPSMUSIC",
+      "sector": "Media",
+      "index": "Nifty Microcap 250",
+      "returns": 44.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "IFCI",
+      "sector": "Finance - Housing - NBFC",
+      "index": "SmallCap 250",
+      "returns": 43.33
+    },
+    {
+      "period": "Jul-24",
+      "stock": "LUXIND",
+      "sector": "Textile",
+      "index": "Nifty Microcap 250",
+      "returns": 43.32
+    },
+    {
+      "period": "Jul-24",
+      "stock": "REFEX",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 42.97
+    },
+    {
+      "period": "Jul-24",
+      "stock": "MMTC",
+      "sector": "Trading",
+      "index": "SmallCap 250",
+      "returns": 42.02
+    },
+    {
+      "period": "Jul-24",
+      "stock": "DEEPAKFERT",
+      "sector": "Chemicals",
+      "index": "SmallCap 250",
+      "returns": 35.47
+    },
+    {
+      "period": "Jul-24",
+      "stock": "AWFIS",
+      "sector": "Trading",
+      "index": "Nifty Microcap 250",
+      "returns": 34.07
+    },
+    {
+      "period": "Jul-24",
+      "stock": "IREDA",
+      "sector": "Finance - Housing - NBFC",
+      "index": "Midcap 150 Index",
+      "returns": 33.92
+    },
+    {
+      "period": "Jul-24",
+      "stock": "ZENTEC",
+      "sector": "Defence",
+      "index": "SmallCap 250",
+      "returns": 32.14
+    },
+    {
+      "period": "Jul-24",
+      "stock": "SUZLON",
+      "sector": "Electric Equipments",
+      "index": "Midcap 150 Index",
+      "returns": 31.08
+    },
+    {
+      "period": "Jul-24",
+      "stock": "INDIAGLYCO",
+      "sector": "Chemicals",
+      "index": "Nifty Microcap 250",
+      "returns": 29.91
+    },
+    {
+      "period": "Jul-24",
+      "stock": "MARKSANS",
+      "sector": "Pharma",
+      "index": "Nifty Microcap 250",
+      "returns": 28.83
+    },
+    {
+      "period": "Jul-24",
+      "stock": "INDIACEM",
+      "sector": "Cement",
+      "index": "SmallCap 250",
+      "returns": 28.71
+    },
+    {
+      "period": "Jul-24",
+      "stock": "ZYDUSWELL",
+      "sector": "Food",
+      "index": "Nifty Microcap 250",
+      "returns": 28.50
+    },
+    {
+      "period": "Jul-24",
+      "stock": "GREAVESCOT",
+      "sector": "Engg - Industrial Equipments",
+      "index": "Nifty Microcap 250",
+      "returns": 28.29
+    },
+    {
+      "period": "Jul-24",
+      "stock": "TORNTPOWER",
+      "sector": "Power",
+      "index": "Midcap 150 Index",
+      "returns": 28.15
+    },
     {
       "period": "Aug-24",
       "stock": "AIIL",
@@ -1538,146 +1678,6 @@
       "sector": "Finance - Investment - Management",
       "index": "SmallCap 250",
       "returns": 23.95
-    },
-     {
-    "period": "Aug-25",
-    "stock": "BLACKBUCK",
-    "sector": "Logistics",
-    "index": "Nifty Microcap 250",
-    "returns": "42.40%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "SHAILY",
-    "sector": "Plastic",
-    "index": "Nifty Microcap 250",
-    "returns": "39.37%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "SARDAEN",
-    "sector": "Metals - Steel - Iron Products",
-    "index": "SmallCap 250",
-    "returns": "36.21%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "HBLENGINE",
-    "sector": "Batteries",
-    "index": "SmallCap 250",
-    "returns": "34.55%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "OLAELEC",
-    "sector": "Auto",
-    "index": "Midcap 150 Index",
-    "returns": "33.29%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "AVL",
-    "sector": "Retail",
-    "index": "Nifty Microcap 250",
-    "returns": "28.47%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "GODFRYPHLP",
-    "sector": "Tobacco - Alcohol",
-    "index": "SmallCap 250",
-    "returns": "25.37%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "GPIL",
-    "sector": "Metals - Steel - Iron Products",
-    "index": "SmallCap 250",
-    "returns": "22.92%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "UNOMINDA",
-    "sector": "Auto Ancillary",
-    "index": "Midcap 150 Index",
-    "returns": "22.52%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "IMFA",
-    "sector": "Metals",
-    "index": "Nifty Microcap 250",
-    "returns": "19.02%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "RATEGAIN",
-    "sector": "IT - Software",
-    "index": "Nifty Microcap 250",
-    "returns": "18.29%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "THANGAMAYL",
-    "sector": "Diamond - Jewellery",
-    "index": "Nifty Microcap 250",
-    "returns": "17.87%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "SENCO",
-    "sector": "Diamond - Jewellery",
-    "index": "Nifty Microcap 250",
-    "returns": "17.52%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "AIIL",
-    "sector": "Finance - Investment - Management",
-    "index": "SmallCap 250",
-    "returns": "17.29%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "IXIGO",
-    "sector": "Travel",
-    "index": "Nifty Microcap 250",
-    "returns": "17.24%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "STARCEMENT",
-    "sector": "Cement",
-    "index": "Nifty Microcap 250",
-    "returns": "16.94%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "JMFINANCIL",
-    "sector": "Finance - Investment - Management",
-    "index": "SmallCap 250",
-    "returns": "16.82%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "FORCEMOT",
-    "sector": "Auto",
-    "index": "Nifty Microcap 250",
-    "returns": "16.57%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "KRBL",
-    "sector": "Food",
-    "index": "Nifty Microcap 250",
-    "returns": "16.53%"
-  },
-  {
-    "period": "Aug-25",
-    "stock": "ENDURANCE",
-    "sector": "Auto Ancillary",
-    "index": "Midcap 150 Index",
-    "returns": "15.84%"
-  }
+    }
   ]
  
