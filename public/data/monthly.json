@@ -1,145 +1,5 @@
  [
     {
-      "period": "Sep-24",
-      "stock": "REFEX",
-      "sector": "Chemicals",
-      "index": "Nifty Microcap 250",
-      "returns": 81.49
-    },
-    {
-      "period": "Sep-24",
-      "stock": "PCJEWELLER",
-      "sector": "Diamond - Jewellery",
-      "index": "Nifty Microcap 250",
-      "returns": 60.70
-    },
-    {
-      "period": "Sep-24",
-      "stock": "RELINFRA",
-      "sector": "Power",
-      "index": "Nifty Microcap 250",
-      "returns": 60.67
-    },
-    {
-      "period": "Sep-24",
-      "stock": "RPOWER",
-      "sector": "Power",
-      "index": "SmallCap 250",
-      "returns": 59.23
-    },
-    {
-      "period": "Sep-24",
-      "stock": "SEQUENT",
-      "sector": "Pharma",
-      "index": "Nifty Microcap 250",
-      "returns": 41.92
-    },
-    {
-      "period": "Sep-24",
-      "stock": "JMFINANCIL",
-      "sector": "Finance - Investment - Management",
-      "index": "SmallCap 250",
-      "returns": 41.32
-    },
-    {
-      "period": "Sep-24",
-      "stock": "OPTIEMUS",
-      "sector": "Trading",
-      "index": "Nifty Microcap 250",
-      "returns": 39.09
-    },
-    {
-      "period": "Sep-24",
-      "stock": "NEOGEN",
-      "sector": "Chemicals",
-      "index": "Nifty Microcap 250",
-      "returns": 38.88
-    },
-    {
-      "period": "Sep-24",
-      "stock": "FLUOROCHEM",
-      "sector": "Chemicals",
-      "index": "Midcap 150 Index",
-      "returns": 34.57
-    },
-    {
-      "period": "Sep-24",
-      "stock": "SENCO",
-      "sector": "Diamond - Jewellery",
-      "index": "Nifty Microcap 250",
-      "returns": 31.40
-    },
-    {
-      "period": "Sep-24",
-      "stock": "BSE",
-      "sector": "Finance - Investment - Management",
-      "index": "Midcap 150 Index",
-      "returns": 30.08
-    },
-    {
-      "period": "Sep-24",
-      "stock": "EDELWEISS",
-      "sector": "Finance - Housing - NBFC",
-      "index": "Nifty Microcap 250",
-      "returns": 29.89
-    },
-    {
-      "period": "Sep-24",
-      "stock": "PREMIERENE",
-      "sector": "IT - Hardware",
-      "index": "Midcap 150 Index",
-      "returns": 28.93
-    },
-    {
-      "period": "Sep-24",
-      "stock": "CHOLAHLDNG",
-      "sector": "Finance - Investment - Management",
-      "index": "SmallCap 250",
-      "returns": 27.57
-    },
-    {
-      "period": "Sep-24",
-      "stock": "HSCL",
-      "sector": "Chemicals",
-      "index": "SmallCap 250",
-      "returns": 26.45
-    },
-    {
-      "period": "Sep-24",
-      "stock": "ACUTAAS",
-      "sector": "None",
-      "index": "None",
-      "returns": 26.14
-    },
-    {
-      "period": "Sep-24",
-      "stock": "SARDAEN",
-      "sector": "Metals - Steel - Iron Products",
-      "index": "SmallCap 250",
-      "returns": 25.98
-    },
-    {
-      "period": "Sep-24",
-      "stock": "JSWHL",
-      "sector": "Finance - Investment - Management",
-      "index": "SmallCap 250",
-      "returns": 25.85
-    },
-    {
-      "period": "Sep-24",
-      "stock": "IIFLCAPS",
-      "sector": "Finance - Stock Broking",
-      "index": "Nifty Microcap 250",
-      "returns": 25.21
-    },
-    {
-      "period": "Sep-24",
-      "stock": "JUBLPHARMA",
-      "sector": "Pharma",
-      "index": "SmallCap 250",
-      "returns": 25.15
-    },
-    {
       "period": "Oct-24",
       "stock": "ANUP",
       "sector": "Engg - Industrial Equipments",
@@ -1678,6 +1538,147 @@
     "sector": "Auto Ancillary",
     "index": "Midcap 150 Index",
     "returns": 15.84
+  },
+   {
+    "period": "25-Sep",
+    "stock": "NETWEB",
+    "sector": "IT - Hardware",
+    "index": "SmallCap 250",
+    "returns": 63.4
+  },
+  {
+    "period": "25-Sep",
+    "stock": "TATAINVEST",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 51.55
+  },
+  {
+    "period": "25-Sep",
+    "stock": "HINDCOPPER",
+    "sector": "Metals - Non Ferrous",
+    "index": "SmallCap 250",
+    "returns": 41.5
+  },
+  {
+    "period": "25-Sep",
+    "stock": "BANCOINDIA",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 40.58
+  },
+  {
+    "period": "25-Sep",
+    "stock": "GMDCLTD",
+    "sector": "Mining",
+    "index": "SmallCap 250",
+    "returns": 38.86
+  },
+  {
+    "period": "25-Sep",
+    "stock": "ANANTRAJ",
+    "sector": "Construction",
+    "index": "SmallCap 250",
+    "returns": 33.96
+  },
+  {
+    "period": "25-Sep",
+    "stock": "INOXGREEN",
+    "sector": "Engineering - Construction",
+    "index": "Nifty Microcap 250",
+    "returns": 32.8
+  },
+  {
+    "period": "25-Sep",
+    "stock": "SUNDARMHLD",
+    "sector": "Finance - Investment - Management",
+    "index": "Nifty Others",
+    "returns": 30.4
+  },
+  {
+    "period": "25-Sep",
+    "stock": "SAMMAANCAP",
+    "sector": "Finance - Housing - NBFC",
+    "index": "SmallCap 250",
+    "returns": 28.25
+  },
+  {
+    "period": "25-Sep",
+    "stock": "MTARTECH",
+    "sector": "Engineering",
+    "index": "Nifty Microcap 250",
+    "returns": 28.04
+  },
+  {
+    "period": "25-Sep",
+    "stock": "IDEA",
+    "sector": "Telecommunication",
+    "index": "Midcap 150 Index",
+    "returns": 24.31
+  },
+  {
+    "period": "25-Sep",
+    "stock": "IMFA",
+    "sector": "Metals",
+    "index": "Nifty Microcap 250",
+    "returns": 24.17
+  },
+  {
+    "period": "25-Sep",
+    "stock": "NLCINDIA",
+    "sector": "Power",
+    "index": "Midcap 150 Index",
+    "returns": 23.52
+  },
+  {
+    "period": "25-Sep",
+    "stock": "ICIL",
+    "sector": "Textile",
+    "index": "Nifty Microcap 250",
+    "returns": 20.89
+  },
+  {
+    "period": "25-Sep",
+    "stock": "V2RETAIL",
+    "sector": "Retail",
+    "index": "Nifty Others",
+    "returns": 20.83
+  },
+  {
+    "period": "25-Sep",
+    "stock": "HEMIPROP",
+    "sector": "Construction",
+    "index": "Nifty Microcap 250",
+    "returns": 20.46
+  },
+  {
+    "period": "25-Sep",
+    "stock": "AVALON",
+    "sector": "IT - Hardware",
+    "index": "Nifty Microcap 250",
+    "returns": 19.76
+  },
+  {
+    "period": "25-Sep",
+    "stock": "RATEGAIN",
+    "sector": "IT - Software",
+    "index": "Nifty Microcap 250",
+    "returns": 19.64
+  },
+  {
+    "period": "25-Sep",
+    "stock": "USHAMART",
+    "sector": "Metals - Steel - Iron Products",
+    "index": "SmallCap 250",
+    "returns": 18.24
+  },
+  {
+    "period": "25-Sep",
+    "stock": "NSLNISP",
+    "sector": "Metals - Steel - Iron Products",
+    "index": "SmallCap 250",
+    "returns": 18.02
   }
+
 ]  
  
