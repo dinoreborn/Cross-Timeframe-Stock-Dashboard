@@ -1,142 +1,142 @@
 [
   {
-    "period": "2025 Sept1-2025 Aug31",
+    "period": "2024 Oct1-2025 Sept30",
     "stock": "CARTRADE",
     "sector": "Auto",
     "index": "Nifty Microcap 250",
-    "returns": 182.72
+    "returns": 147.27
   },
   {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "PARADEEP",
-    "sector": "Fertilizers - Pesticides",
-    "index": "Nifty Microcap 250",
-    "returns": 161.04
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
+    "period": "2024 Oct1-2025 Sept30",
     "stock": "BLACKBUCK",
     "sector": "Logistics",
     "index": "Nifty Microcap 250",
-    "returns": 144.86
+    "returns": 139.53
   },
   {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "JSWHL",
-    "sector": "Finance - Investment - Management",
-    "index": "SmallCap 250",
-    "returns": 140.50
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "FORCEMOT",
-    "sector": "Auto",
-    "index": "Nifty Microcap 250",
-    "returns": 133.83
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "BSE",
-    "sector": "Finance - Investment - Management",
-    "index": "Midcap 150 Index",
-    "returns": 122.01
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "SHAILY",
-    "sector": "Plastic",
-    "index": "Nifty Microcap 250",
-    "returns": 111.65
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
+    "period": "2024 Oct1-2025 Sept30",
     "stock": "GABRIEL",
     "sector": "Auto Ancillary",
     "index": "Nifty Microcap 250",
-    "returns": 110.16
+    "returns": 127.81
   },
   {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "ACUTAAS",
-    "sector": "Pharma",
-    "index": "Nifty Microcap 250",
-    "returns": 103.61
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "PAYTM",
-    "sector": "Finance - Investment - Management",
-    "index": "Midcap 150 Index",
-    "returns": 94.08
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "AIIL",
-    "sector": "Finance - Investment - Management",
-    "index": "SmallCap 250",
-    "returns": 91.25
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "LAURUSLABS",
-    "sector": "Pharma",
-    "index": "SmallCap 250",
-    "returns": 82.26
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "CHOICEIN",
-    "sector": "Finance - Stock Broking",
-    "index": "Nifty Microcap 250",
-    "returns": 76.52
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "HCG",
-    "sector": "Hospital - Healthcare Services",
-    "index": "Nifty Microcap 250",
-    "returns": 74.01
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "TI",
-    "sector": "Tobacco - Alcohol",
-    "index": "Nifty Microcap 250",
-    "returns": 72.70
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "SYRMA",
-    "sector": "IT - Hardware",
-    "index": "SmallCap 250",
-    "returns": 71.84
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "SARDAEN",
-    "sector": "Metals - Steel - Iron Products",
-    "index": "SmallCap 250",
-    "returns": 70.15
-  },
-  {
-    "period": "2025 Sept1-2025 Aug31",
+    "period": "2024 Oct1-2025 Sept30",
     "stock": "BANCOINDIA",
     "sector": "Auto Ancillary",
     "index": "Nifty Microcap 250",
-    "returns": 69.99
+    "returns": 122.72
   },
   {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "GODFRYPHLP",
-    "sector": "Tobacco - Alcohol",
-    "index": "SmallCap 250",
-    "returns": 69.07
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "FORCEMOT",
+    "sector": "Auto",
+    "index": "Nifty Microcap 250",
+    "returns": 120.28
   },
   {
-    "period": "2025 Sept1-2025 Aug31",
-    "stock": "SHARDACROP",
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "PARADEEP",
     "sector": "Fertilizers - Pesticides",
     "index": "Nifty Microcap 250",
-    "returns": 68.70
+    "returns": 118.70
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "LUMAXTECH",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Others",
+    "returns": 118.42
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "SHAILY",
+    "sector": "Plastic",
+    "index": "Nifty Microcap 250",
+    "returns": 115.55
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "ATHERENERG",
+    "sector": "Auto",
+    "index": "Nifty Others",
+    "returns": 87.07
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "GALLANTT",
+    "sector": "Metals - Steel - Iron Products",
+    "index": "Nifty Others",
+    "returns": 81.06
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "LAURUSLABS",
+    "sector": "Pharma",
+    "index": "SmallCap 250",
+    "returns": 79.37
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "SYRMA",
+    "sector": "IT - Hardware",
+    "index": "SmallCap 250",
+    "returns": 79.11
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "SUNDARMHLD",
+    "sector": "Finance - Investment - Management",
+    "index": "Nifty Others",
+    "returns": 79.11
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "GVT&D",
+    "sector": "Electric Equipments",
+    "index": "Midcap 150 Index",
+    "returns": 75.60
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "KRN",
+    "sector": "Engg - Industrial Equipments",
+    "index": "Nifty Others",
+    "returns": 75.54
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "IXIGO",
+    "sector": "Travel",
+    "index": "Nifty Microcap 250",
+    "returns": 75.39
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "AVALON",
+    "sector": "IT - Hardware",
+    "index": "Nifty Microcap 250",
+    "returns": 71.99
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "AIIL",
+    "sector": "Finance - Investment - Management",
+    "index": "SmallCap 250",
+    "returns": 68.94
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "MANORAMA",
+    "sector": "Chemicals",
+    "index": "Nifty Others",
+    "returns": 68.72
+  },
+  {
+    "period": "2024 Oct1-2025 Sept30",
+    "stock": "GMDCLTD",
+    "sector": "Mining",
+    "index": "SmallCap 250",
+    "returns": 68.01
   }
 ]
