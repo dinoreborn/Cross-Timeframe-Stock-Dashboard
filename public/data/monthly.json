@@ -1,145 +1,5 @@
  [
     {
-      "period": "Oct-24",
-      "stock": "ANUP",
-      "sector": "Engg - Industrial Equipments",
-      "index": "Nifty Microcap 250",
-      "returns": 49.47
-    },
-    {
-      "period": "Oct-24",
-      "stock": "TARIL",
-      "sector": "Electric Equipments",
-      "index": "SmallCap 250",
-      "returns": 42.19
-    },
-    {
-      "period": "Oct-24",
-      "stock": "WEBELSOLAR",
-      "sector": "IT - Hardware",
-      "index": "Nifty Microcap 250",
-      "returns": 31.83
-    },
-    {
-      "period": "Oct-24",
-      "stock": "GANESHHOUC",
-      "sector": "Construction",
-      "index": "Nifty Microcap 250",
-      "returns": 31.66
-    },
-    {
-      "period": "Oct-24",
-      "stock": "SHARDACROP",
-      "sector": "Fertilizers - Pesticides",
-      "index": "Nifty Microcap 250",
-      "returns": 31.20
-    },
-    {
-      "period": "Oct-24",
-      "stock": "MOTILALOFS",
-      "sector": "Finance - Stock Broking",
-      "index": "Midcap 150 Index",
-      "returns": 26.18
-    },
-    {
-      "period": "Oct-24",
-      "stock": "TIPSMUSIC",
-      "sector": "Media",
-      "index": "Nifty Microcap 250",
-      "returns": 25.92
-    },
-    {
-      "period": "Oct-24",
-      "stock": "KIRLPNU",
-      "sector": "Engg - Industrial Equipments",
-      "index": "Nifty Microcap 250",
-      "returns": 25.47
-    },
-    {
-      "period": "Oct-24",
-      "stock": "WOCKPHARMA",
-      "sector": "Pharma",
-      "index": "SmallCap 250",
-      "returns": 24.73
-    },
-    {
-      "period": "Oct-24",
-      "stock": "AMBER",
-      "sector": "Consumer Durables",
-      "index": "SmallCap 250",
-      "returns": 24.65
-    },
-    {
-      "period": "Oct-24",
-      "stock": "POLYMED",
-      "sector": "Hospital - Healthcare Services",
-      "index": "SmallCap 250",
-      "returns": 22.10
-    },
-    {
-      "period": "Oct-24",
-      "stock": "REDTAPE",
-      "sector": "Retail",
-      "index": "Nifty Microcap 250",
-      "returns": 21.75
-    },
-    {
-      "period": "Oct-24",
-      "stock": "PRUDENT",
-      "sector": "Finance - Investment - Management",
-      "index": "Nifty Microcap 250",
-      "returns": 21.02
-    },
-    {
-      "period": "Oct-24",
-      "stock": "SYRMA",
-      "sector": "IT - Hardware",
-      "index": "SmallCap 250",
-      "returns": 20.88
-    },
-    {
-      "period": "Oct-24",
-      "stock": "CRISIL",
-      "sector": "Finance - Investment - Management",
-      "index": "Midcap 150 Index",
-      "returns": 17.88
-    },
-    {
-      "period": "Oct-24",
-      "stock": "ANGELONE",
-      "sector": "Finance - Stock Broking",
-      "index": "SmallCap 250",
-      "returns": 17.36
-    },
-    {
-      "period": "Oct-24",
-      "stock": "PPLPHARMA",
-      "sector": "Pharma",
-      "index": "SmallCap 250",
-      "returns": 17.33
-    },
-    {
-      "period": "Oct-24",
-      "stock": "GILLETTE",
-      "sector": "FMCG",
-      "index": "SmallCap 250",
-      "returns": 17.00
-    },
-    {
-      "period": "Oct-24",
-      "stock": "YATHARTH",
-      "sector": "Hospital - Healthcare Services",
-      "index": "Nifty Microcap 250",
-      "returns": 16.87
-    },
-    {
-      "period": "Oct-24",
-      "stock": "NEULANDLAB",
-      "sector": "Pharma",
-      "index": "SmallCap 250",
-      "returns": 16.78
-    },
-    {
       "period": "Nov-24",
       "stock": "AVALON",
       "sector": "IT - Hardware",
@@ -1678,6 +1538,146 @@
     "sector": "Metals - Steel - Iron Products",
     "index": "SmallCap 250",
     "returns": 18.02
+  },
+  {
+    "period": "Oct-25",
+    "stock": "SHAREINDIA",
+    "sector": "Finance - Stock Broking",
+    "index": "Nifty Microcap 250",
+    "returns": 38.79
+  },
+  {
+    "period": "Oct-25",
+    "stock": "MTARTECH",
+    "sector": "Engineering",
+    "index": "Nifty Microcap 250",
+    "returns": 34.21
+  },
+  {
+    "period": "Oct-25",
+    "stock": "TDPOWERSYS",
+    "sector": "Electric Equipments",
+    "index": "Nifty Microcap 250",
+    "returns": 29.51
+  },
+  {
+    "period": "Oct-25",
+    "stock": "INOXGREEN",
+    "sector": "Engineering - Construction",
+    "index": "Nifty Microcap 250",
+    "returns": 29.50
+  },
+  {
+    "period": "Oct-25",
+    "stock": "CHENNPETRO",
+    "sector": "Oil - Gas",
+    "index": "SmallCap 250",
+    "returns": 29.36
+  },
+  {
+    "period": "Oct-25",
+    "stock": "SANDUMA",
+    "sector": "Mining",
+    "index": "Nifty Others",
+    "returns": 28.68
+  },
+  {
+    "period": "Oct-25",
+    "stock": "SKYGOLD",
+    "sector": "Diamond - Jewellery",
+    "index": "Nifty Others",
+    "returns": 28.60
+  },
+  {
+    "period": "Oct-25",
+    "stock": "ACUTAAS",
+    "sector": "Pharma",
+    "index": "Nifty Microcap 250",
+    "returns": 25.06
+  },
+  {
+    "period": "Oct-25",
+    "stock": "ABDL",
+    "sector": "Tobacco - Alcohol",
+    "index": "Nifty Microcap 250",
+    "returns": 24.89
+  },
+  {
+    "period": "Oct-25",
+    "stock": "MRPL",
+    "sector": "Oil - Gas",
+    "index": "Midcap 150 Index",
+    "returns": 24.82
+  },
+  {
+    "period": "Oct-25",
+    "stock": "SOUTHBANK",
+    "sector": "Banks",
+    "index": "Nifty Microcap 250",
+    "returns": 24.69
+  },
+  {
+    "period": "Oct-25",
+    "stock": "CARTRADE",
+    "sector": "Auto",
+    "index": "Nifty Microcap 250",
+    "returns": 23.56
+  },
+  {
+    "period": "Oct-25",
+    "stock": "PRIVISCL",
+    "sector": "Chemicals",
+    "index": "Nifty Others",
+    "returns": 23.08
+  },
+  {
+    "period": "Oct-25",
+    "stock": "NAVINFLUOR",
+    "sector": "Chemicals",
+    "index": "SmallCap 250",
+    "returns": 22.84
+  },
+  {
+    "period": "Oct-25",
+    "stock": "DCBBANK",
+    "sector": "Banks",
+    "index": "Nifty Microcap 250",
+    "returns": 22.83
+  },
+  {
+    "period": "Oct-25",
+    "stock": "GMMPFAUDLR",
+    "sector": "Engineering - Industrial Equipment",
+    "index": "Nifty Microcap 250",
+    "returns": 22.44
+  },
+  {
+    "period": "Oct-25",
+    "stock": "FEDERALBNK",
+    "sector": "Banks",
+    "index": "Midcap 150 Index",
+    "returns": 22.11
+  },
+  {
+    "period": "Oct-25",
+    "stock": "FIVESTAR",
+    "sector": "Finance - Housing",
+    "index": "SmallCap 250",
+    "returns": 21.78
+  },
+  {
+    "period": "Oct-25",
+    "stock": "THYROCARE",
+    "sector": "Hospital - Healthcare",
+    "index": "Nifty Others",
+    "returns": 21.63
+  },
+  {
+    "period": "Oct-25",
+    "stock": "AUBANK",
+    "sector": "Banks",
+    "index": "Midcap 150 Index",
+    "returns": 21.16
   }
 
 ]  
