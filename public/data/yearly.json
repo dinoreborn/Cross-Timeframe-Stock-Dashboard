@@ -1,142 +1,135 @@
 [
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "CARTRADE",
     "sector": "Auto",
-    "index": "Nifty Microcap 250",
-    "returns": 147.27
+    "index": "Nifty Microcap",
+    "returns": 204.74
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "BLACKBUCK",
     "sector": "Logistics",
-    "index": "Nifty Microcap 250",
-    "returns": 139.53
+    "index": "Nifty Microcap",
+    "returns": 163.18
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "GABRIEL",
     "sector": "Auto Ancillary",
-    "index": "Nifty Microcap 250",
-    "returns": 127.81
+    "index": "Nifty Microcap",
+    "returns": 145.64
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "BANCOINDIA",
-    "sector": "Auto Ancillary",
-    "index": "Nifty Microcap 250",
-    "returns": 122.72
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "FORCEMOT",
     "sector": "Auto",
-    "index": "Nifty Microcap 250",
-    "returns": 120.28
+    "index": "Nifty Microcap",
+    "returns": 131.55
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "PARADEEP",
-    "sector": "Fertilizers - Pesticides",
-    "index": "Nifty Microcap 250",
-    "returns": 118.70
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "LUMAXTECH",
-    "sector": "Auto Ancillary",
-    "index": "Nifty Others",
-    "returns": 118.42
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "SHAILY",
-    "sector": "Plastic",
-    "index": "Nifty Microcap 250",
-    "returns": 115.55
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "ATHERENERG",
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "ATHERENER9",
     "sector": "Auto",
     "index": "Nifty Others",
-    "returns": 87.07
+    "returns": 128.90
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "GALLANTT",
-    "sector": "Metals - Steel - Iron Products",
-    "index": "Nifty Others",
-    "returns": 81.06
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "SHAILY",
+    "sector": "Plastic",
+    "index": "Nifty Microcap",
+    "returns": 125.22
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "LAURUSLABS",
     "sector": "Pharma",
     "index": "SmallCap 250",
-    "returns": 79.37
+    "returns": 103.21
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "AVALON",
+    "sector": "IT - Hardware",
+    "index": "Nifty Microcap",
+    "returns": 102.93
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "ACUTAAS",
+    "sector": "Pharma",
+    "index": "Nifty Microcap",
+    "returns": 100.90
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "LUMAXTECH",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Others",
+    "returns": 97.08
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "PRIVISCL",
+    "sector": "Chemicals",
+    "index": "Nifty Others",
+    "returns": 93.97
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "ABDL",
+    "sector": "Tobacco - Alcohol",
+    "index": "Nifty Microcap",
+    "returns": 93.53
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "BSE",
+    "sector": "Finance - Investm",
+    "index": "Midcap 150 Ind",
+    "returns": 92.72
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "BANCOINDIA",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap",
+    "returns": 90.29
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "SYRMA",
     "sector": "IT - Hardware",
     "index": "SmallCap 250",
-    "returns": 79.11
+    "returns": 89.94
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "SUNDARMHLD",
-    "sector": "Finance - Investment - Management",
-    "index": "Nifty Others",
-    "returns": 79.11
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "TSFINV",
+    "sector": null,
+    "index": null,
+    "returns": 88.70
   },
   {
-    "period": "2024 Oct1-2025 Sept30",
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "TDPOWERSYS",
+    "sector": "Electric Equipme",
+    "index": "Nifty Microcap",
+    "returns": 88.04
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "PARADEEP",
+    "sector": "Fertilizers - Pesti",
+    "index": "Nifty Microcap",
+    "returns": 85.65
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
     "stock": "GVT&D",
-    "sector": "Electric Equipments",
-    "index": "Midcap 150 Index",
-    "returns": 75.60
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "KRN",
-    "sector": "Engg - Industrial Equipments",
-    "index": "Nifty Others",
-    "returns": 75.54
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "IXIGO",
-    "sector": "Travel",
-    "index": "Nifty Microcap 250",
-    "returns": 75.39
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "AVALON",
-    "sector": "IT - Hardware",
-    "index": "Nifty Microcap 250",
-    "returns": 71.99
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "AIIL",
-    "sector": "Finance - Investment - Management",
-    "index": "SmallCap 250",
-    "returns": 68.94
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "MANORAMA",
-    "sector": "Chemicals",
-    "index": "Nifty Others",
-    "returns": 68.72
-  },
-  {
-    "period": "2024 Oct1-2025 Sept30",
-    "stock": "GMDCLTD",
-    "sector": "Mining",
-    "index": "SmallCap 250",
-    "returns": 68.01
+    "sector": "Electric Equipme",
+    "index": "Midcap 150 Ind",
+    "returns": 80.18
   }
 ]
