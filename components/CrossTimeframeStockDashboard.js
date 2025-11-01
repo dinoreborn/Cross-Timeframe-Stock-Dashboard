@@ -691,7 +691,7 @@ const CrossTimeframeStockDashboard = () => {
   // Export unique stocks excluding F&O (uses your sanitize/process helpers)
   const exportNonFnoUniqueStocks = async () => {
     try {
-      const fnoResp = await fetch('/data/FNO.json'); // <-- capitalized
+      const fnoResp = await fetch('/data/fno.json'); // <-- capitalized
       const fnoList = fnoResp.ok ? await fnoResp.json() : [];
       const fnoSet = new Set((fnoList || []).map(s => sanitizeStockName(s)));
 
@@ -732,7 +732,7 @@ const CrossTimeframeStockDashboard = () => {
   const exportUniqueIpoNonFnoStocks = async () => {
     try {
       const [fnoResp, ipoResp] = await Promise.all([
-        fetch('/data/FNO.json'), // <-- capitalized
+        fetch('/data/fno.json'), // <-- capitalized
         fetch('/data/IPO.json')  // <-- capitalized
       ]);
       const fnoList = fnoResp.ok ? await fnoResp.json() : [];
