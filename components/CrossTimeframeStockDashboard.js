@@ -733,7 +733,7 @@ const CrossTimeframeStockDashboard = () => {
     try {
       const [fnoResp, ipoResp] = await Promise.all([
         fetch('/data/fno.json'), // <-- capitalized
-        fetch('/data/IPO.json')  // <-- capitalized
+        fetch('/data/ipo.json')  // <-- capitalized
       ]);
       const fnoList = fnoResp.ok ? await fnoResp.json() : [];
       const ipoList = ipoResp.ok ? await ipoResp.json() : [];
