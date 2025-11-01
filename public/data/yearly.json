@@ -107,8 +107,8 @@
   {
     "period": "2024 Nov1-2025 Oct31",
     "stock": "TSFINV",
-    "sector": null,
-    "index": null,
+    "sector":"None",
+    "index": "None",
     "returns": 88.70
   },
   {
@@ -131,5 +131,12 @@
     "sector": "Electric Equipme",
     "index": "Midcap 150 Ind",
     "returns": 80.18
+  },
+  {
+    "period": "2024 Nov1-2025 Oct31",
+    "stock": "V2RETAIL",
+    "sector": "Retail",
+    "index": "Nifty Others",
+    "returns": 79.80
   }
 ]
