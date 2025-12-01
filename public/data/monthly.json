@@ -1539,6 +1539,111 @@
     "sector": "Banks",
     "index": "Midcap 150 Index",
     "returns": 21.16
+  },
+  {
+    "period": "Nov-25",
+    "stock": "THANGAMAYL",
+    "sector": "Diamond - Jewellery",
+    "index": "Nifty Microcap 250",
+    "returns": 49.98
+  },
+  {
+    "period": "Nov-25",
+    "stock": "LUMAXTECH",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 36.23
+  },
+  {
+    "period": "Nov-25",
+    "stock": "INDIGOPNTS",
+    "sector": "Paints - Pigments",
+    "index": "Nifty Microcap 250",
+    "returns": 28.38
+  },
+  {
+    "period": "Nov-25",
+    "stock": "PGIL",
+    "sector": "Textile",
+    "index": "Nifty Microcap 250",
+    "returns": 28.31
+  },
+  {
+    "period": "Nov-25",
+    "stock": "POWERINDIA",
+    "sector": "Electric Equipments",
+    "index": "Midcap 150 Index",
+    "returns": 24.06
+  },
+  {
+    "period": "Nov-25",
+    "stock": "JAMNAAUTO",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 21.16
+  },
+  {
+    "period": "Nov-25",
+    "stock": "ALLCARGO",
+    "sector": "Logistics",
+    "index": "Nifty Microcap 250",
+    "returns": 20.33
+  },
+  {
+    "period": "Nov-25",
+    "stock": "KTKBANK",
+    "sector": "Banks",
+    "index": "Nifty Microcap 250",
+    "returns": 19.01
+  },
+  {
+    "period": "Nov-25",
+    "stock": "AIAENG",
+    "sector": "Forgings",
+    "index": "Midcap 150 Index",
+    "returns": 18.85
+  },
+  {
+    "period": "Nov-25",
+    "stock": "CUB",
+    "sector": "Banks",
+    "index": "SmallCap 250",
+    "returns": 18.55
+  },
+  {
+    "period": "Nov-25",
+    "stock": "3MINDIA",
+    "sector": "Trading",
+    "index": "Midcap 150 Index",
+    "returns": 17.86
+  },
+  {
+    "period": "Nov-25",
+    "stock": "RAMFIN",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 17.84
+  },
+  {
+    "period": "Nov-25",
+    "stock": "MUTHOOTFIN",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 17.79
+  },
+  {
+    "period": "Nov-25",
+    "stock": "PRICOLLLD",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 17.79
+  },
+  {
+    "period": "Nov-25",
+    "stock": "CCL",
+    "sector": "Tea - Coffee",
+    "index": "SmallCap 250",
+    "returns": 17.31
   }
 
 ]  
