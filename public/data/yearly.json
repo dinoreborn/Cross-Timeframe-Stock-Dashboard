@@ -1,142 +1,107 @@
 [
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "CARTRADE",
-    "sector": "Auto",
-    "index": "Nifty Microcap",
-    "returns": 204.74
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "BLACKBUCK",
-    "sector": "Logistics",
-    "index": "Nifty Microcap",
-    "returns": 163.18
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "GABRIEL",
-    "sector": "Auto Ancillary",
-    "index": "Nifty Microcap",
-    "returns": 145.64
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "FORCEMOT",
-    "sector": "Auto",
-    "index": "Nifty Microcap",
-    "returns": 131.55
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "ATHERENER9",
-    "sector": "Auto",
-    "index": "Nifty Others",
-    "returns": 128.90
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "SHAILY",
-    "sector": "Plastic",
-    "index": "Nifty Microcap",
-    "returns": 125.22
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "LAURUSLABS",
-    "sector": "Pharma",
-    "index": "SmallCap 250",
-    "returns": 103.21
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "AVALON",
-    "sector": "IT - Hardware",
-    "index": "Nifty Microcap",
-    "returns": 102.93
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "ACUTAAS",
-    "sector": "Pharma",
-    "index": "Nifty Microcap",
-    "returns": 100.90
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
+    "period": "2024 Dec1-2025 Nov30",
     "stock": "LUMAXTECH",
     "sector": "Auto Ancillary",
-    "index": "Nifty Others",
-    "returns": 97.08
+    "index": "Nifty Microcap 250",
+    "returns": 194.88
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "PRIVISCL",
-    "sector": "Chemicals",
-    "index": "Nifty Others",
-    "returns": 93.97
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "ABDL",
-    "sector": "Tobacco - Alcohol",
-    "index": "Nifty Microcap",
-    "returns": 93.53
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "BSE",
-    "sector": "Finance - Investm",
-    "index": "Midcap 150 Ind",
-    "returns": 92.72
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "BANCOINDIA",
-    "sector": "Auto Ancillary",
-    "index": "Nifty Microcap",
-    "returns": 90.29
-  },
-  {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "SYRMA",
-    "sector": "IT - Hardware",
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "FORCEMOT",
+    "sector": "Auto",
     "index": "SmallCap 250",
-    "returns": 89.94
+    "returns": 158.52
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "TSFINV",
-    "sector":"None",
-    "index": "None",
-    "returns": 88.70
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "BLACKBUCK",
+    "sector": "Logistics",
+    "index": "Nifty Microcap 250",
+    "returns": 146.31
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "TDPOWERSYS",
-    "sector": "Electric Equipme",
-    "index": "Nifty Microcap",
-    "returns": 88.04
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "ATHERENE",
+    "sector": "Auto",
+    "index": "SmallCap 250",
+    "returns": 137.88
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "PARADEEP",
-    "sector": "Fertilizers - Pesti",
-    "index": "Nifty Microcap",
-    "returns": 85.65
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "GABRIEL",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 132.11
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
-    "stock": "GVT&D",
-    "sector": "Electric Equipme",
-    "index": "Midcap 150 Ind",
-    "returns": 80.18
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "CARTRADE",
+    "sector": "Auto",
+    "index": "Nifty Microcap 250",
+    "returns": 127.77
   },
   {
-    "period": "2024 Nov1-2025 Oct31",
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "LTF",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 119.24
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "RBLBANK",
+    "sector": "Banks",
+    "index": "SmallCap 250",
+    "returns": 101.57
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "SHAILY",
+    "sector": "Plastic",
+    "index": "Nifty Microcap 250",
+    "returns": 100.56
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "MUTHOOTFIN",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 95.31
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "ABDL",
+    "sector": "Tobacco - Misc",
+    "index": "Nifty Microcap 250",
+    "returns": 94.15
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "KEC",
+    "sector": "Finance - Misc",
+    "index": "Midcap 150 Index",
+    "returns": 88.42
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "IXIGO",
+    "sector": "Travel",
+    "index": "Nifty Microcap 250",
+    "returns": 86.37
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
     "stock": "V2RETAIL",
     "sector": "Retail",
-    "index": "Nifty Others",
-    "returns": 79.80
+    "index": "Nifty Microcap 250",
+    "returns": 84.87
+  },
+  {
+    "period": "2024 Dec1-2025 Nov30",
+    "stock": "ABCAPITAL",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 84.25
   }
 ]
