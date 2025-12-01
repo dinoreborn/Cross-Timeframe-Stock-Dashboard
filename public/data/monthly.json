@@ -1,158 +1,5 @@
  [
-    {
-      "period": "Nov-24",
-      "stock": "AVALON",
-      "sector": "IT - Hardware",
-      "index": "Nifty Microcap 250",
-      "returns": 63.92
-    },
-    {
-      "period": "Nov-24",
-      "stock": "BANCOINDIA",
-      "sector": "Auto Ancillary",
-      "index": "Nifty Microcap 250",
-      "returns": 57.16
-    },
-    {
-      "period": "Nov-24",
-      "stock": "JSWHL",
-      "sector": "Finance - Investment - Management",
-      "index": "SmallCap 250",
-      "returns": 44.10
-    },
-    {
-      "period": "Nov-24",
-      "stock": "TI",
-      "sector": "Tobacco - Alcohol",
-      "index": "Nifty Microcap 250",
-      "returns": 38.95
-    },
-    {
-      "period": "Nov-24",
-      "stock": "DHANI",
-      "sector": "Finance - Stock Broking",
-      "index": "Nifty Microcap 250",
-      "returns": 30.51
-    },
-    {
-      "period": "Nov-24",
-      "stock": "INNOVACAP",
-      "sector": "Pharma",
-      "index": "Nifty Microcap 250",
-      "returns": 29.71
-    },
-    {
-      "period": "Nov-24",
-      "stock": "DCAL",
-      "sector": "Pharma",
-      "index": "Nifty Microcap 250",
-      "returns": 26.62
-    },
-    {
-      "period": "Nov-24",
-      "stock": "SAGILITY",
-      "sector": "Trading",
-      "index": "SmallCap 250",
-      "returns": 26.26
-    },
-    {
-      "period": "Nov-24",
-      "stock": "SHAILY",
-      "sector": "Plastic",
-      "index": "Nifty Microcap 250",
-      "returns": 26.08
-    },
-    {
-      "period": "Nov-24",
-      "stock": "ITI",
-      "sector": "Telecommunication",
-      "index": "SmallCap 250",
-      "returns": 25.78
-    },
-    {
-      "period": "Nov-24",
-      "stock": "PGIL",
-      "sector": "Textile",
-      "index": "Nifty Microcap 250",
-      "returns": 25.01
-    },
-    {
-      "period": "Nov-24",
-      "stock": "CARTRADE",
-      "sector": "Auto",
-      "index": "Nifty Microcap 250",
-      "returns": 24.62
-    },
-    {
-      "period": "Nov-24",
-      "stock": "EMBDL",
-      "sector": "Construction",
-      "index": "Nifty Microcap 250",
-      "returns": 23.25
-    },
-    {
-      "period": "Nov-24",
-      "stock": "SWANENERGY",
-      "sector": "Textile",
-      "index": "SmallCap 250",
-      "returns": 22.02
-    },
-    {
-      "period": "Nov-24",
-      "stock": "GRWRHITECH",
-      "sector": "Plastic",
-      "index": "Nifty Microcap 250",
-      "returns": 21.90
-    },
-    {
-      "period": "Nov-24",
-      "stock": "IMFA",
-      "sector": "Metals",
-      "index": "Nifty Microcap 250",
-      "returns": 21.73
-    },
-    {
-      "period": "Nov-24",
-      "stock": "SUPRIYA",
-      "sector": "Pharma",
-      "index": "Nifty Microcap 250",
-      "returns": 21.62
-    },
-    {
-      "period": "Nov-24",
-      "stock": "TIRUMALCHM",
-      "sector": "Chemicals",
-      "index": "Nifty Microcap 250",
-      "returns": 20.97
-    },
-    {
-      "period": "Nov-24",
-      "stock": "MANINFRA",
-      "sector": "Engineering - Construction",
-      "index": "Nifty Microcap 250",
-      "returns": 19.88
-    },
-    {
-      "period": "Nov-24",
-      "stock": "VIJAYA",
-      "sector": "Hospital - Healthcare Services",
-      "index": "SmallCap 250",
-      "returns": 19.55
-    },
-    {
-      "period": "Dec-24",
-      "stock": "BLACKBUCK",
-      "sector": "Logistics",
-      "index": "Nifty Microcap 250",
-      "returns": 77.76
-    },
-    {
-      "period": "Dec-24",
-      "stock": "EIEL",
-      "sector": "None",
-      "index": "None",
-      "returns": 50.61
-    },
+   
     {
       "period": "Dec-24",
       "stock": "GREAVESCOT",
@@ -1678,7 +1525,114 @@
     "sector": "Banks",
     "index": "Midcap 150 Index",
     "returns": 21.16
+  },
+  [
+  {
+    "period": "Nov-25",
+    "stock": "THANGAMAYL",
+    "sector": "Diamond - Jewellery",
+    "index": "Nifty Microcap 250",
+    "returns": 49.98
+  },
+  {
+    "period": "Nov-25",
+    "stock": "LUMAXTECH",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 36.23
+  },
+  {
+    "period": "Nov-25",
+    "stock": "INDIGOPNTS",
+    "sector": "Paints - Pigments",
+    "index": "Nifty Microcap 250",
+    "returns": 28.38
+  },
+  {
+    "period": "Nov-25",
+    "stock": "PGIL",
+    "sector": "Textile",
+    "index": "Nifty Microcap 250",
+    "returns": 28.31
+  },
+  {
+    "period": "Nov-25",
+    "stock": "POWERINDIA",
+    "sector": "Electric Equipments",
+    "index": "Midcap 150 Index",
+    "returns": 24.06
+  },
+  {
+    "period": "Nov-25",
+    "stock": "JAMNAAUTO",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 21.16
+  },
+  {
+    "period": "Nov-25",
+    "stock": "ALLCARGO",
+    "sector": "Logistics",
+    "index": "Nifty Microcap 250",
+    "returns": 20.33
+  },
+  {
+    "period": "Nov-25",
+    "stock": "KTKBANK",
+    "sector": "Banks",
+    "index": "Nifty Microcap 250",
+    "returns": 19.01
+  },
+  {
+    "period": "Nov-25",
+    "stock": "AIAENG",
+    "sector": "Forgings",
+    "index": "Midcap 150 Index",
+    "returns": 18.85
+  },
+  {
+    "period": "Nov-25",
+    "stock": "CUB",
+    "sector": "Banks",
+    "index": "SmallCap 250",
+    "returns": 18.55
+  },
+  {
+    "period": "Nov-25",
+    "stock": "3MINDIA",
+    "sector": "Trading",
+    "index": "Midcap 150 Index",
+    "returns": 17.86
+  },
+  {
+    "period": "Nov-25",
+    "stock": "RAMFIN",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 17.84
+  },
+  {
+    "period": "Nov-25",
+    "stock": "MUTHOOTFIN",
+    "sector": "Finance - Housing - NBFC",
+    "index": "Midcap 150 Index",
+    "returns": 17.79
+  },
+  {
+    "period": "Nov-25",
+    "stock": "PRICOLLLD",
+    "sector": "Auto Ancillary",
+    "index": "Nifty Microcap 250",
+    "returns": 17.79
+  },
+  {
+    "period": "Nov-25",
+    "stock": "CCL",
+    "sector": "Tea - Coffee",
+    "index": "SmallCap 250",
+    "returns": 17.31
   }
+]
 
 ]  
  
